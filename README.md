@@ -1,8 +1,8 @@
-# OOP_2023_Week12_Problem2
+# 2024_OOP_Week12_2 : EquationSolution
 
-- 각 코드에 주석으로 간단한 설명이 달려있습니다. 참고하셔서 `Problem2.java` 를 수정해주세요.
+- 각 코드에 주석으로 간단한 설명이 달려있습니다. 참고하셔서 `EquationSolution.java` 를 수정해주세요.
 - sample run을 참조하시면 됩니다.
-- 출력문이 sample run와 동일해야 자동채점이 정상 채점 됩니다.
+- 출력문이 sample run과 (입력 제외하고) 동일해야 자동채점이 정상 채점 됩니다.
 
 ---
 ## Problem2
